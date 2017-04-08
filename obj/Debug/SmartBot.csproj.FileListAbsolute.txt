@@ -1,0 +1,41 @@
+C:\Users\j\documents\visual studio 2017\Projects\SmartBot\SmartBot\bin\Bot Application.dll
+C:\Users\j\documents\visual studio 2017\Projects\SmartBot\SmartBot\bin\Bot Application.pdb
+C:\Users\j\documents\visual studio 2017\Projects\SmartBot\SmartBot\bin\Autofac.dll
+C:\Users\j\documents\visual studio 2017\Projects\SmartBot\SmartBot\bin\Chronic.dll
+C:\Users\j\documents\visual studio 2017\Projects\SmartBot\SmartBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\j\documents\visual studio 2017\Projects\SmartBot\SmartBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\j\documents\visual studio 2017\Projects\SmartBot\SmartBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\j\documents\visual studio 2017\Projects\SmartBot\SmartBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\j\documents\visual studio 2017\Projects\SmartBot\SmartBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\j\documents\visual studio 2017\Projects\SmartBot\SmartBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\j\documents\visual studio 2017\Projects\SmartBot\SmartBot\bin\Newtonsoft.Json.dll
+C:\Users\j\documents\visual studio 2017\Projects\SmartBot\SmartBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\j\documents\visual studio 2017\Projects\SmartBot\SmartBot\bin\System.Net.Http.Formatting.dll
+C:\Users\j\documents\visual studio 2017\Projects\SmartBot\SmartBot\bin\System.Web.Http.dll
+C:\Users\j\documents\visual studio 2017\Projects\SmartBot\SmartBot\bin\System.Web.Http.WebHost.dll
+C:\Users\j\documents\visual studio 2017\Projects\SmartBot\SmartBot\bin\Autofac.xml
+C:\Users\j\documents\visual studio 2017\Projects\SmartBot\SmartBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\j\documents\visual studio 2017\Projects\SmartBot\SmartBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\j\documents\visual studio 2017\Projects\SmartBot\SmartBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\j\documents\visual studio 2017\Projects\SmartBot\SmartBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\j\documents\visual studio 2017\Projects\SmartBot\SmartBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\j\documents\visual studio 2017\Projects\SmartBot\SmartBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\j\documents\visual studio 2017\Projects\SmartBot\SmartBot\bin\Newtonsoft.Json.xml
+C:\Users\j\documents\visual studio 2017\Projects\SmartBot\SmartBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\j\documents\visual studio 2017\Projects\SmartBot\SmartBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\j\documents\visual studio 2017\Projects\SmartBot\SmartBot\bin\System.Net.Http.Formatting.xml
+C:\Users\j\documents\visual studio 2017\Projects\SmartBot\SmartBot\bin\System.Web.Http.xml
+C:\Users\j\documents\visual studio 2017\Projects\SmartBot\SmartBot\bin\System.Web.Http.WebHost.xml
+C:\Users\j\documents\visual studio 2017\Projects\SmartBot\SmartBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\j\documents\visual studio 2017\Projects\SmartBot\SmartBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\j\documents\visual studio 2017\Projects\SmartBot\SmartBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\j\documents\visual studio 2017\Projects\SmartBot\SmartBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\j\documents\visual studio 2017\Projects\SmartBot\SmartBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\j\documents\visual studio 2017\Projects\SmartBot\SmartBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\j\documents\visual studio 2017\Projects\SmartBot\SmartBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\j\documents\visual studio 2017\Projects\SmartBot\SmartBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\j\documents\visual studio 2017\Projects\SmartBot\SmartBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\j\documents\visual studio 2017\Projects\SmartBot\SmartBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\j\documents\visual studio 2017\Projects\SmartBot\SmartBot\obj\Debug\SmartBot.csprojResolveAssemblyReference.cache
+C:\Users\j\documents\visual studio 2017\Projects\SmartBot\SmartBot\obj\Debug\Bot Application.dll
+C:\Users\j\documents\visual studio 2017\Projects\SmartBot\SmartBot\obj\Debug\Bot Application.pdb
